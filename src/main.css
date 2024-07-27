@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.maindiv{
+    background: linear-gradient(180deg, #DCDDDE 40.65%, #BCBEC0 62.79%);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cloud{
+    top: 0px;
+    left:374px;
+    height: 292px;
+    width: 192px;
+}
+.bird{
+    top: 60px;
+    left: 474px;
+    height: 122px;
+    width: 192px;
+}
+.span-text{
+    color: #155DFF;
+}
+.banner{
+    background-image: url(/bannerimgjpg.jpeg);
+    }
+    .banner2{
+        background-color: white;
+    }
+    .banner2head{
+        color: #155DFF;
+    }
+    .cards{
+        background-image: url('/statue.png');
+    }
